@@ -1,0 +1,30 @@
+h3{
+    background-color:hotpink(174, 0, 255, 0.596);
+    color: white;
+}
+
+body{
+background-color:rgba(250, 231, 231, 0.877);
+font-family:'Courier New', Courier, monospace;
+}
+
+
+thead{
+background-color: bisque;
+font-size: medium;
+text-align: center;
+color: white;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+.style1{
+background-color: pink;
+font-size: 16px;
+text-align: left;
+font-family: monospace;
+}
+
+
+.style2{
+    background-color: white;
+}
